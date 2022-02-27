@@ -55,9 +55,12 @@ const chockletOutput = output => {
 					</div>
 					<div class="col-md-8">
 						<div class="card-body">
-							<h5 class="card-title">Drink Category is: ${output.strCategory}</h5>
-							<p class="card-text">Drink instruction: ${output.strInstructions}</p>
+						<h5 class="card-title">পন্যর ডিটেইলস...</h5>
+						<h5 class="card-title">Drink Category is: ${output.strCategory}</h5>
+							<p class="card-text">Drink instruction: একমাত্র আপনাদের সেবায় নিয়োযিত। </p>
 							<p class="card-text">Drink System: ${output.strAlcoholic}</p>
+							<p class="card-text">মোবাইল: +৮৮০১৮৭৩৪২...</p>
+							<p class="card-text">Developer: Sanjoy Kundu</p>
 						</div>
 					</div>
 				</div>
